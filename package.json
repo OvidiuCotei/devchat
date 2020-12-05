@@ -2,7 +2,7 @@
   "name": "react-slack-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/OvidiuCotei/ovykodechat.github.io/",
+  "homepage": "https://OvidiuCotei.github.io/devchat",
   "dependencies": {
     "emoji-mart": "^2.6.1",
     "firebase": "^5.3.0",
